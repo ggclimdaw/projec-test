@@ -1,7 +1,7 @@
 name: Build and test of Java Project
 
-On: [push]
-Branches: [master]
+On:
+Branches:
 
 
 jobs:
